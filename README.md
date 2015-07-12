@@ -1,6 +1,11 @@
-Hello  
-    This circular list has only two operations:  
-    1.*add*  
-    2.*display*  
-    
-Other code will print Hello World!!.  
+**This Repository contains the data-structure codes I have done : **  
+1. Breadth-first search  
+2. Depth-first search  
+3. 'n' ary search  
+4. Minheap  
+5. Maxheap  
+6. Round Robin  
+7. Merge Sort  
+8. Circular linked-list  
+9. Binary Search
+ 
